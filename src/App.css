@@ -1,22 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
 
-.main-container
-{
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    align-items:flex-start;
-    justify-content: center;
-    background:  #23252C;;
+.main-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  background: #23252c;
 }
 
-.digital-card
-{
-
-    margin-top: 15px;
-    width: 250px;
-    height: 530px;
-    flex-shrink: 0;
-    background-color: #1a1b21;
-    border-radius: 10px 10px 0px 0px;
+.digital-card {
+  margin-top: 15px;
+  width: 250px;
+  height: 530px;
+  flex-shrink: 0;
+  background-color: #1a1b21;
+  border-radius: 10px 10px 0px 0px;
 }
