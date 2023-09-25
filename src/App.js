@@ -1,6 +1,6 @@
 import Info from "./Components/Info";
 import About from "./Components/About";
-import "./app.css";
+import "./App.css";
 import Interest from "./Components/Interest";
 import Icons from "./Components/icons";
 
