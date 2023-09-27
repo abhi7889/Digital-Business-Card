@@ -1,4 +1,4 @@
-Deployed link: lucent-pasca-b2a1f2.netlify.app
+Deployed link: [lucent-pasca-b2a1f2.netlify.app](https://lucent-pasca-b2a1f2.netlify.app)
 
 
 # Getting Started with Create React App
